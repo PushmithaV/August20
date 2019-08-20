@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="redbus.MultipleWindowsTabs">
+      <class name="redbus.Busbooking">
         <methods>
-          <include name="multiple"/>
+          <include name="book"/>
         </methods>
-      </class> <!-- redbus.MultipleWindowsTabs -->
+      </class> <!-- redbus.Busbooking -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
