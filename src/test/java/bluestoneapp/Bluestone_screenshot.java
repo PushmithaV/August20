@@ -32,7 +32,7 @@ public class Bluestone_screenshot {
 	int i=1;
 	for(WebElement we:stores)
 	{
-		Thread.sleep(3000);
+		Thread. sleep(3000);
 		File src = we.getScreenshotAs(OutputType.FILE);
 		File dest = new File("D:\\Java_selenium\\Pushmitha\\Maven_Practise\\src\\test\\resources\\Screenshots\\store_"+(i++)+".png");
 		FileUtils.copyFile(src, dest);

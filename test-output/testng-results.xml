@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-08-20T05:38:58Z" name="Default suite" finished-at="2019-08-20T05:39:51Z" duration-ms="53301">
+  <suite started-at="2019-08-20T11:24:02Z" name="Default suite" finished-at="2019-08-20T11:24:20Z" duration-ms="17676">
     <groups>
     </groups>
-    <test started-at="2019-08-20T05:38:58Z" name="Default test" finished-at="2019-08-20T05:39:51Z" duration-ms="53301">
-      <class name="bluestoneapp.Bluestone_screenshot">
-        <test-method signature="run()[pri:0, instance:bluestoneapp.Bluestone_screenshot@436a4e4b]" started-at="2019-08-20T05:38:58Z" name="run" finished-at="2019-08-20T05:39:51Z" duration-ms="53161" status="PASS">
+    <test started-at="2019-08-20T11:24:02Z" name="Default test" finished-at="2019-08-20T11:24:20Z" duration-ms="17676">
+      <class name="redbus.MultipleWindowsTabs">
+        <test-method signature="multiple()[pri:0, instance:redbus.MultipleWindowsTabs@436a4e4b]" started-at="2019-08-20T11:24:02Z" name="multiple" finished-at="2019-08-20T11:24:20Z" duration-ms="17596" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- run -->
-      </class> <!-- bluestoneapp.Bluestone_screenshot -->
+        </test-method> <!-- multiple -->
+      </class> <!-- redbus.MultipleWindowsTabs -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
